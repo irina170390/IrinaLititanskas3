@@ -41,9 +41,8 @@ else:
     print("Lists l1 and l2 are not equal")
 
 
-def sortsecond_element (inputStr):
-    return len(inputStr)
-    print(second_element), sortList
+    print(len(second_element))
+
 
 
 
